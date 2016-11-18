@@ -1,10 +1,10 @@
-<!-- forestryio: ignore -->
+<!-- forestryio: ignore; forestryio: admin -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Forestry</title>
+    <title>Admin</title>
     <meta name="description" content=" " />
     <meta name="author" content=" " />
     <meta name="HandheldFriendly" content="true" />
@@ -16,32 +16,31 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
 
-    <!-- Typekit -->
-    <script src="https://use.typekit.net/bsk7saw.js"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
     <!-- Fort awesome icon kit -->
     <script src="https://use.fortawesome.com/b6f38602.js"></script>
 
-    <script src="https://unpkg.com/react@15.3.2/dist/react.min.js"></script>
-    <script src="https://unpkg.com/react-dom@15.3.2/dist/react-dom.min.js"></script>
-
-    <link rel="stylesheet" href="https://forestryio-admin-dev.s3-us-west-2.amazonaws.com/above.css" />
 </head>
 <body>
 <div id="app">
 
 </div>
 <script id="admin-config-script" type="text/javascript">
-    const dateFormat = "MM/DD/YYYY h:mm A";
-
     var env = {
-        siteId: 'cx0bphth-e5-8q',
-        serverless: false,
-        dateFormat
+        api: "https://forestry.io",
+        siteId: "b2l-nbvaaejodq",
+        dateFormat: "MM/DD/YYYY h:mm A"
     };
 </script>
-<script type="application/javascript" src="https://forestryio-admin-dev.s3-us-west-2.amazonaws.com/forestry.min.js"></script>
-<link rel="stylesheet" href="https://forestryio-admin-dev.s3-us-west-2.amazonaws.com/main.css" />
+<script type="application/javascript" src="https://local.forestry.io/forestry.min.js"></script>
+<link rel="stylesheet" href="https://local.forestry.io/main.css" />
+<script type="text/javascript" async="" src="https://widget.intercom.io/widget/i9oymrzt"></script>
+<script id="IntercomSettingsScriptTag">
+    window.intercomSettings = {
+        app_id: "i9oymrzt"
+    };
+    (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/i9oymrzt';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}};})()</script>
 </body>
 </html>
