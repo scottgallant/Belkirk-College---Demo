@@ -1,6 +1,6 @@
 ---
 title: cat
-date: '2016-12-02 15:48:40'
+date: '2016-12-02 00:00:00'
 project:
 - jekyll
 - update
