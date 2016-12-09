@@ -32,7 +32,6 @@ exclude:
 - package.json
 - vendor
 show_drafts: false
-markdown: redcarpet
 highlighter: rouge
 port: 4000
 url: "https://chcresearch.ca"
