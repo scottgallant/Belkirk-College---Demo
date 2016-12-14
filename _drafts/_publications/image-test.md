@@ -9,3 +9,4 @@ author: ''
 link: ''
 PDF: ''
 ---
+![{{ site.baseurl }}/forestryio/images/content-marketing.png]({{ site.baseurl }}/forestryio/images/content-marketing.png)
