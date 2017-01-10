@@ -92,7 +92,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   footnote_nr: '1'
-name: The Centre for Health and Community Research
+name: Belkirk College of Engineering and Design
 footer-nav-about:
 - title: About Us
   href: "/about"
