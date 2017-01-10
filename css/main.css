@@ -779,7 +779,7 @@ nav ul {
   display: none;
   min-width: 100%;
   z-index: 999;
-  border: 1px solid rgba(139, 32, 4, 0.8);
+  border: 1px solid rgba(139, 32, 4, 0.2);
   border-top: 0;
   top: 65px; }
 
