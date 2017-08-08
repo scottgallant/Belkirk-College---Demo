@@ -1,0 +1,11 @@
+---
+sections: []
+pages: []
+hide_body: false
+fields:
+- name: tags
+  default:
+  - something
+  label: Tags
+  type: list
+  hidden: false

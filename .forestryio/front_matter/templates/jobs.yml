@@ -1,0 +1,10 @@
+---
+sections: []
+pages: []
+hide_body: false
+fields:
+- name: link
+  default: ''
+  label: Link
+  type: text
+  hidden: false
