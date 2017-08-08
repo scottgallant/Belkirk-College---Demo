@@ -1,13 +1,13 @@
 ---
-title: Mary-Ann MacSwain
 date: 2016-11-08 00:00:00 +0000
+email: mmmacswain@upei.ca
 layout: person
+linkedin: ''
 sub-title: Data Analyst
-thumbnail: forestryio/images/MacSwain%20Mary-Ann-1.jpg
 tags (staff, board, advisor, partner):
 - staff
-email: mmmacswain@upei.ca
-linkedin: ''
+thumbnail: "/uploads/2017/08/08/MacSwain Mary-Ann-1.jpg"
+title: Mary-Ann MacSwain
 ---
 
 
