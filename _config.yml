@@ -34,7 +34,7 @@ exclude:
 show_drafts: false
 highlighter: rouge
 port: 4000
-url: "https://chcresearch.ca"
+url: "http://belkirkcollege.com/"
 permalink: "/:year/:title/"
 timezone:
 defaults:
