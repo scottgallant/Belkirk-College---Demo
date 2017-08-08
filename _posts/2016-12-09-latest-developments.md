@@ -1,6 +1,6 @@
 ---
 title: Latest developments
-date: '2016-12-09 00:00:00'
+date: 2016-12-09 00:00:00 +0000
 tags:
 - something
 layout: post
