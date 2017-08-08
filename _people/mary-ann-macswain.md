@@ -1,6 +1,6 @@
 ---
 title: Mary-Ann MacSwain
-date: '2016-11-08 00:00:00'
+date: 2016-11-08 00:00:00 +0000
 layout: person
 sub-title: Data Analyst
 thumbnail: forestryio/images/MacSwain%20Mary-Ann-1.jpg
@@ -9,6 +9,8 @@ tags (staff, board, advisor, partner):
 email: mmmacswain@upei.ca
 linkedin: ''
 ---
+
+
 Mary-Ann MacSwain joined the CHCR in 2016 as a Data Analyst.
 
 Mary-Ann received her B.A. (Honours) in Psychology from UPEI, where she is currently completing her MSc in Epidemiology.
