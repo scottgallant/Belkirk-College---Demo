@@ -9,7 +9,7 @@ fields:
 - name: thumbnail
   default: ''
   label: Thumbnail
-  type: text
+  type: file
   hidden: false
 - name: sub-title
   default: ''
