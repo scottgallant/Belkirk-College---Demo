@@ -8,6 +8,12 @@ fields:
   label: Title
   config:
     required: true
+  description: This is their job
+- name: thumbnail
+  default: ''
+  label: Profile Picture
+  type: file
+  hidden: false
 - name: layout
   default: person
   label: Layout
@@ -17,11 +23,6 @@ fields:
   default: ''
   label: Sub title
   type: text
-  hidden: false
-- name: thumbnail
-  default: ''
-  label: Profile Picture
-  type: file
   hidden: false
 - name: tags
   default: 
