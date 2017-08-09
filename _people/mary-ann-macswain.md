@@ -1,5 +1,5 @@
 ---
-date: 2016-11-08 00:00:00 Z
+date: 2016-11-08 00:00:00 +0000
 email: mmmacswain@upei.ca
 layout: person
 linkedin: ''
