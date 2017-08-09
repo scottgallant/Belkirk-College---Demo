@@ -1,7 +1,5 @@
 ---
 timezone: America/Halifax
-gems:
-  - jekyll-archives
 
 jekyll-archives:
   enabled:
