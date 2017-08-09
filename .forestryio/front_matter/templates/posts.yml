@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/2016-12-09-humans.md
 hide_body: false
 fields:
 - name: tags
