@@ -1,7 +1,4 @@
 ---
-sections:
-- people
-pages: []
 hide_body: false
 fields:
 - name: title
