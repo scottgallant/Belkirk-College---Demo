@@ -84,7 +84,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   footnote_nr: '1'
-name: Belkirk College of Engineering and Design
+name: Belkirk College of Engineering
 footer-nav-about:
 - title: About Us
   href: "/about"
