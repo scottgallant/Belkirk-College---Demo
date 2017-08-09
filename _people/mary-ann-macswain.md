@@ -1,12 +1,12 @@
 ---
-date: 2016-11-08 00:00:00 +0000
+date: 2016-11-08 00:00:00 Z
 email: mmmacswain@upei.ca
 layout: person
 linkedin: ''
 sub-title: Data Analyst
 tags (staff, board, advisor, partner):
 - staff
-thumbnail: "/uploads/2017/08/08/MacSwain Mary-Ann-1.jpg"
+thumbnail: "/assets/images/MacSwain Mary-Ann-1.jpg"
 title: Mary-Ann MacSwain
 ---
 
