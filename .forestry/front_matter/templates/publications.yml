@@ -1,4 +1,6 @@
 ---
+pages:
+- _publications/research-paper.md
 hide_body: false
 fields:
 - name: project
