@@ -1,0 +1,30 @@
+---
+hide_body: false
+fields:
+- name: project
+  label: Project
+  type: list
+  hidden: false
+  default:
+  - jekyll
+  - update
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: text
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- name: link
+  label: Link
+  type: text
+  hidden: false
+  default: ''
+- name: PDF
+  label: Pdf
+  type: text
+  hidden: false
+  default: ''

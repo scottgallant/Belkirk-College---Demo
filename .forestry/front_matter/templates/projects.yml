@@ -1,0 +1,28 @@
+---
+hide_body: false
+fields:
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: thumbnail
+  label: Thumbnail
+  type: text
+  hidden: false
+  default: ''
+- name: sub-title
+  label: Sub title
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
