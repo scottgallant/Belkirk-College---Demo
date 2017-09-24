@@ -46,3 +46,6 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: image_gallery
+  name: logos
+  label: Logos
