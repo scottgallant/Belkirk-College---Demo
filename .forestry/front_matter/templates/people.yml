@@ -1,0 +1,33 @@
+---
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: person
+- name: sub-title
+  label: Sub title
+  type: text
+  hidden: false
+  default: ''
+- name: thumbnail
+  label: Thumbnail
+  type: text
+  hidden: false
+  default: ''
+- name: tags (staff, board, advisor, partner)
+  label: Tags (staff, board, advisor, partner)
+  type: list
+  hidden: false
+  default: []
+- name: email
+  label: Email
+  type: text
+  hidden: false
+  default: ''
+- name: linkedin
+  label: Linkedin
+  type: text
+  hidden: false
+  default: ''
