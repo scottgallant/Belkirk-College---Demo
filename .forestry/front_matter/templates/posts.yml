@@ -1,5 +1,7 @@
 ---
 pages:
+- _posts/2016-12-09-humans.md
+- _posts/2016-12-09-latest-developments.md
 - _posts/2016-12-09-test.md
 hide_body: false
 fields:
