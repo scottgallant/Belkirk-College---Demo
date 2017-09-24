@@ -46,20 +46,6 @@ fields:
     default: ''
   hidden: false
   default: ''
-- name: partners
-  label: Partners
-  type: field_group_list
-  fields:
-  - type: text
-    label: Name
-    name: name
-  - name: logo
-    label: Logo
-    type: file
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
 - type: image_gallery
   name: logos
   label: Logos
