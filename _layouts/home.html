@@ -71,9 +71,9 @@
 		<h2>Funding Partners</h2>
 		<div class="flexslider">
 		  <ul class="slides">
-		  	{% for partner in page.partners %}
+		  	{% for logo in page.logos %}
 					<li>
-					  <img src="{{ site.baseurl }}{{ .partner.logo }}" />
+					  <img src="{{ site.baseurl }}{{ .logo }}" />
 					</li>
 		  	{% endfor %}
 		    <!-- items mirrored twice, total of 12 -->
