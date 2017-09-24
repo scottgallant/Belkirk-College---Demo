@@ -1,9 +1,10 @@
 ---
-title: Latest developments
 date: 2016-12-09 00:00:00 +0000
+layout: post
 tags:
 - something
-layout: post
+title: Latest developments
+sub-title: 'If you could see the earth illuminated when you were '
 ---
 Houston, Tranquillity Base here. The Eagle has landed.
 
