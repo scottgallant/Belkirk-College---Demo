@@ -3,11 +3,23 @@ pages:
 - index.html
 hide_body: false
 fields:
+- type: text
+  label: Heading
+  name: heading
+  default: Belkirk College
+- type: text
+  name: sub_heading
+  label: Sub heading
+  default: Engineering and Health Sciences
 - name: title
   label: Title
   type: text
-  hidden: false
+  hidden: true
   default: ''
+- type: file
+  name: banner_image
+  label: Banner Image
+  description: Size should be 1200px by 580px
 - name: layout
   label: Layout
   type: text
@@ -51,7 +63,3 @@ fields:
 - type: image_gallery
   name: logos
   label: Logos
-- type: file
-  name: banner_image
-  label: Banner Image
-  description: Size should be 1200px by 580px
