@@ -10,6 +10,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: text
+  label: Sub Title
+  name: sub-title
 - name: date
   label: Date
   type: datetime
