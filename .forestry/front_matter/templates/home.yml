@@ -1,15 +1,15 @@
 ---
 hide_body: false
 fields:
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: ''
 - name: title
   label: Title
   type: text
   hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
   default: ''
 - name: services
   label: Services
@@ -36,6 +36,9 @@ fields:
   label: Partners
   type: field_group_list
   fields:
+  - type: text
+    label: Name
+    name: name
   - name: logo
     label: Logo
     type: file
