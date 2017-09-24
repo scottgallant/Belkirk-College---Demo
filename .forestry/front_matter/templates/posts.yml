@@ -23,7 +23,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: ''
+  default: post
 - name: tags
   label: Tags
   type: tag_list
