@@ -4,8 +4,7 @@ date: 2016-05-13 00:00:00 +0000
 layout: person
 sub-title: ''
 thumbnail: "/assets/images/staff-gilmour-robert-149x153.jpg"
-role:
-- board
+role: []
 email: ''
 linkedin: ''
 ---
