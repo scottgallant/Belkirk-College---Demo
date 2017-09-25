@@ -1,6 +1,6 @@
 ---
 date: 2016-11-08 00:00:00 +0000
-email: mmmacswain@upei.ca
+email: mmmacswain@Belkirk College.ca
 layout: person
 linkedin: ''
 sub-title: Data Analyst
