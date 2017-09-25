@@ -8,16 +8,16 @@ fields:
   default:
   - jekyll
   - update
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: text
 - name: author
   label: Author
   type: text
   hidden: false
   default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: text
 - name: link
   label: Link
   type: text
