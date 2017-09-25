@@ -9,8 +9,6 @@ role:
 sub-title: Data Analyst
 thumbnail: "/uploads/13165465.jpg"
 title: Mary-Ann MacSwain
-tags:
-- radssfdfdsfds fdfasdfd saffdssfd
 description: ''
 slug: ''
 ---
