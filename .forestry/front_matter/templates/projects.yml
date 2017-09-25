@@ -1,4 +1,6 @@
 ---
+pages:
+- _people/mary-ann-macswain.md
 hide_body: false
 fields:
 - name: description
