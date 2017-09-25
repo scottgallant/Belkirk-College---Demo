@@ -11,11 +11,10 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: thumbnail
+- type: file
   label: Thumbnail
-  type: text
-  hidden: false
-  default: ''
+  name: thumbnail
+  description: 'Square image, Max 500 pixels '
 - name: role
   label: Role
   type: list
