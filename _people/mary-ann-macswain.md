@@ -6,6 +6,7 @@ linkedin: ''
 role:
 - partner
 - advisor
+- test
 sub-title: Data Analyst
 thumbnail: "/uploads/13165465.jpg"
 title: Mary-Ann MacSwain
