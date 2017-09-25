@@ -6,6 +6,9 @@ tags:
 - one
 - two
 title: Updates to the December Awards Gala
+related_posts:
+- _posts/2016-12-09-latest-developments.md
+- _posts/2017-09-24-updates-to-the-december-awards-gala.md
 layout: post
 ---
 
