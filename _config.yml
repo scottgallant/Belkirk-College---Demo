@@ -1,12 +1,12 @@
 ---
 timezone: America/Halifax
 
-jekyll-archives:
-  enabled:
-  - year
-  layout: 'archive'
-  permalinks:
-    year: '/posts/:year/'
+# jekyll-archives:
+#   enabled:
+#   - year
+#   layout: 'archive'
+#   permalinks:
+#     year: '/posts/:year/'
 
 collections:
   projects:
