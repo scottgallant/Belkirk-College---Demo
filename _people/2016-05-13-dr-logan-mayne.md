@@ -5,7 +5,7 @@ layout: person
 sub-title: ''
 thumbnail: "/uploads/14250177.jpg"
 role:
-- advisor
+- staff
 email: ''
 linkedin: ''
 ---
