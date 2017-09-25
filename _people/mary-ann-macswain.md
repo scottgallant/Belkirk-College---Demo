@@ -3,7 +3,9 @@ date: 2016-11-08 00:00:00 +0000
 email: mmmacswain@belkirkcollege.ca
 layout: person
 linkedin: ''
-role: []
+role:
+- partner
+- advisor
 sub-title: Data Analyst
 tags (staff, board, advisor, partner):
 - staff
