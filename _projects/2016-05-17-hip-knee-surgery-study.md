@@ -3,7 +3,7 @@ title: Hip & Knee Surgery Study
 date: 2016-05-17 00:00:00 +0000
 categories: []
 description: Demonstration Data Project
-thumbnail: "/forestryio/images/shutterstock_78324328-1.jpg"
+thumbnail: "/uploads/doc.jpg"
 sub-title: Demonstration Data Project
 tags:
 - health
