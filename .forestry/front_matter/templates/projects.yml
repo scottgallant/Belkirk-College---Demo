@@ -9,7 +9,7 @@ fields:
 - name: thumbnail
   label: Thumbnail
   type: file
-  description: 'Dimensions work best at 800 pixels by 300 pixels'
+  description: Dimensions work best at 800 pixels by 300 pixels
   hidden: false
   default: ''
 - name: sub-title

@@ -8,7 +8,7 @@ sub-title: Strategies for Patient Orientated Research and Maritime SPOR SUPPORT 
   PEI
 tags:
 - Health
-thumbnail: "/forestryio/images/logo-MSSU-SPOR.png"
+thumbnail: "/uploads/network.png"
 title: SPOR and MSSU PEI
 ---
 # SPOR and MSSU PEI
