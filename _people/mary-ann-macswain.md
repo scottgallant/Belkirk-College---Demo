@@ -4,7 +4,7 @@ email: mmmacswain@upei.ca
 layout: person
 linkedin: ''
 sub-title: Data Analyst
-tags (staff, board, advisor, partner):
+role:
 - staff
 thumbnail: "/uploads/13165465.jpg"
 title: Mary-Ann MacSwain
