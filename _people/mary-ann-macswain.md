@@ -1,10 +1,11 @@
 ---
 date: 2016-11-08 00:00:00 +0000
-email: mmmacswain@Belkirk College.ca
+email: mmmacswain@belkirkcollege.ca
 layout: person
 linkedin: ''
+role: []
 sub-title: Data Analyst
-role:
+tags (staff, board, advisor, partner):
 - staff
 thumbnail: "/uploads/13165465.jpg"
 title: Mary-Ann MacSwain
