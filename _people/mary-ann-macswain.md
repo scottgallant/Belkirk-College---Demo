@@ -6,7 +6,7 @@ linkedin: ''
 sub-title: Data Analyst
 tags (staff, board, advisor, partner):
 - staff
-thumbnail: "/assets/images/MacSwain-Mary-Ann-1.jpg"
+thumbnail: "/uploads/13165465.jpg"
 title: Mary-Ann MacSwain
 ---
 
