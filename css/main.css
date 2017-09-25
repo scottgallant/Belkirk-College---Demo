@@ -884,7 +884,7 @@ nav ul {
       .meta .tags-list li a {
         font-size: 12px;
         text-decoration: none;
-        display: block;
+        display: inline-block;
         text-transform: capitalize; }
 
 .main-message {
@@ -1144,7 +1144,13 @@ nav ul {
   list-style-type: none;
   padding: 0; }
   .posts-list li {
-    margin-bottom: 10px; }
+    margin: 20px 0 30px !important; }
+    .posts-list li h3 {
+      margin-bottom: 0; }
+    .posts-list li date {
+      font-size: 70%; }
+    .posts-list li p {
+      margin: 0; }
     .posts-list li a {
       text-decoration: none;
       font-weight: 500; }
