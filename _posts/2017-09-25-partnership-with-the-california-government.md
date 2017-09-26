@@ -1,10 +1,7 @@
 ---
 date: 2017-09-25 09:09:13 +0000
 layout: post
-related_posts:
-- _posts/2017-09-24-updates-to-the-december-awards-gala.md
-- _posts/2016-12-09-test.md
-- _posts/2016-12-09-latest-developments.md
+related_posts: []
 sub-title: This is a subtitle
 tags:
 - something
