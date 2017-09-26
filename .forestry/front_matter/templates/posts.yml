@@ -1,6 +1,5 @@
 ---
 pages:
-- _posts/2017-09-25-partnership-with-the-california-government.md
 - _posts/2017-09-24-updates-to-the-december-awards-gala.md
 - _posts/2016-12-09-latest-developments.md
 - _posts/2016-12-09-test.md
@@ -19,10 +18,6 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- type: file
-  label: Thumbnail
-  name: thumbnail
-  description: 'This will show in small cards. '
 - name: tags
   label: Tags
   type: tag_list
