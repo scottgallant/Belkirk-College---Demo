@@ -1,16 +1,14 @@
 ---
 date: 2017-09-24 00:00:00 +0000
-related_posts:
-- _posts/2016-12-09-latest-developments.md
-- _posts/2017-09-24-updates-to-the-december-awards-gala.md
+layout: post
+related_posts: []
 sub-title: Important updates to the Sed posuere consectetur est at lobortis.
 tags:
 - something
 - one
 - two
+thumbnail: ''
 title: Updates to the December Awards Gala
-thumbnail: "/uploads/building.jpg"
-layout: post
 ---
 
 
