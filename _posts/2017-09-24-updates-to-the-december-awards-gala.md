@@ -7,7 +7,6 @@ tags:
 - something
 - one
 - two
-thumbnail: ''
 title: Updates to the December Awards Gala
 ---
 
