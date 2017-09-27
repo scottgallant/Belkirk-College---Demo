@@ -19,6 +19,11 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: post
 - name: tags
   label: Tags
   type: tag_list
@@ -37,8 +42,3 @@ fields:
     source:
       type: pages
       section: posts
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: post
