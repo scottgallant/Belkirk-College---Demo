@@ -20,7 +20,7 @@ fields:
   label: Pdf
   type: file
   hidden: false
-  description: 'Upload PDF file here'
+  description: Upload PDF file here
 - type: list
   name: project
   label: Project
