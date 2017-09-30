@@ -1,11 +1,6 @@
 ---
 hide_body: true
 fields:
-- name: author
-  label: Author
-  type: text
-  hidden: false
-  default: ''
 - name: layout
   label: Layout
   type: text
