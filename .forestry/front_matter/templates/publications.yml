@@ -1,13 +1,6 @@
 ---
 hide_body: true
 fields:
-- name: project
-  label: Project
-  type: list
-  hidden: false
-  default:
-  - jekyll
-  - update
 - name: author
   label: Author
   type: text
@@ -28,3 +21,12 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: list
+  name: project
+  label: Project
+  description: 'This publication is associated with which project? '
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: projects
