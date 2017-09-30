@@ -1,6 +1,13 @@
 ---
 hide_body: true
 fields:
+- type: select
+  config:
+    source:
+      type: pages
+      section: people
+  label: Author
+  name: author
 - name: layout
   label: Layout
   type: text
