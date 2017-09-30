@@ -1,6 +1,9 @@
 ---
 hide_body: true
 fields:
+- type: text
+  name: title
+  label: Title
 - type: select
   config:
     source:
