@@ -18,9 +18,9 @@ fields:
   default: ''
 - name: PDF
   label: Pdf
-  type: text
+  type: file
   hidden: false
-  default: ''
+  description: 'Upload PDF file here'
 - type: list
   name: project
   label: Project
