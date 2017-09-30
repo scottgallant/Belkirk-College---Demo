@@ -1,9 +1,6 @@
 ---
 title: Publication one
 date: 2016-12-02 00:00:00 +0000
-project:
-- jekyll
-- update
 layout: text
 author: ''
 link: ''
