@@ -41,6 +41,9 @@ kramdown:
   hard_wrap: false
   footnote_nr: '1'
 name: Belkirk College of Engineering
+menus:
+  navigation:
+  footer-nav-about:
 footer-nav-about:
 - title: About Us
   href: "/about"
